@@ -1,0 +1,16 @@
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\Remediation.exe
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\Remediation.deps.json
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\Remediation.runtimeconfig.json
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\Remediation.runtimeconfig.dev.json
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\Remediation.dll
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\ref\Remediation.dll
+C:\Users\kimdo\source\repos\Remediation\Remediation\bin\Debug\net5.0\Remediation.pdb
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.AssemblyInfoInputs.cache
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.AssemblyInfo.cs
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.csproj.CoreCompileInputs.cache
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.dll
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\ref\Remediation.dll
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.pdb
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.genruntimeconfig.cache
+C:\Users\kimdo\source\repos\Remediation\Remediation\obj\Debug\net5.0\Remediation.csprojAssemblyReference.cache
